@@ -172,3 +172,5 @@ sudo service apache2 restart
 17. To access error log, use 
 
 `sudo tail /var/log/apache2/error.log`
+
+Reference: [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
